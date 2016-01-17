@@ -1,0 +1,17 @@
+{
+    "name": "skansing/xtrack",
+    "require": {
+        "rdlowrey/arya": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "Ronnie Skansing",
+            "email": "rskansing@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+          "Skansing\\XTrack\\": "src"
+        }
+    }
+}
